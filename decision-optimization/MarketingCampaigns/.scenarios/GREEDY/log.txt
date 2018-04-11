@@ -1,0 +1,13 @@
+[2018-04-11T12:23:25Z, INFO] FINISH BUDGET
+[2018-04-11T12:23:25Z, INFO]       id  Savings  Mortgage  Pension
+[2018-04-11T12:23:25Z, INFO] 0  44256        0         0        0
+[2018-04-11T12:23:25Z, INFO] 1  46883        0         0        0
+[2018-04-11T12:23:25Z, INFO] 2  32387        0         0        0
+[2018-04-11T12:23:25Z, INFO] 3  25504        0         0        0
+[2018-04-11T12:23:25Z, INFO] 4  35979        0         1        0
+[2018-04-11T12:23:25Z, INFO] Number of clients: 1123
+[2018-04-11T12:23:25Z, INFO] Numbers of Mortgage offers: 299
+[2018-04-11T12:23:25Z, INFO] Numbers of Pension offers: 111
+[2018-04-11T12:23:25Z, INFO] Numbers of Savings offers: 713
+[2018-04-11T12:23:25Z, INFO] Total Budget Spent: 21712
+[2018-04-11T12:23:25Z, INFO] Total revenue: 50800

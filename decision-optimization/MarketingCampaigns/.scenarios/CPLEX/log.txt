@@ -1,0 +1,20 @@
+[2018-04-11T12:24:38Z, INFO] Model: marketing_campaign
+[2018-04-11T12:24:38Z, INFO]  - number of variables: 24804
+[2018-04-11T12:24:38Z, INFO]    - binary=24804, integer=0, continuous=0
+[2018-04-11T12:24:38Z, INFO]  - number of constraints: 2760
+[2018-04-11T12:24:38Z, INFO]    - linear=2760
+[2018-04-11T12:24:38Z, INFO]  - parameters: defaults
+[2018-04-11T12:24:39Z, INFO] JobSolveStatus.OPTIMAL_SOLUTION
+[2018-04-11T12:24:39Z, INFO] status  = integer optimal solution
+[2018-04-11T12:24:39Z, INFO] time    = 0.290694 s.
+[2018-04-11T12:24:39Z, INFO] problem = MILP
+[2018-04-11T12:24:39Z, INFO] gap     = 0%
+[2018-04-11T12:24:39Z, INFO] * model marketing_campaign solved with objective = 72620.000
+[2018-04-11T12:24:39Z, INFO] *  KPI: nb_offers   = 1218.000
+[2018-04-11T12:24:39Z, INFO] *  KPI: budgetSpent = 24989.000
+[2018-04-11T12:24:39Z, INFO] *  KPI: gift        = 275.000
+[2018-04-11T12:24:39Z, INFO] *  KPI: newsletter  = 275.000
+[2018-04-11T12:24:39Z, INFO] *  KPI: seminar     = 668.000
+[2018-04-11T12:24:39Z, INFO] *  KPI: Savings     = 690.000
+[2018-04-11T12:24:40Z, INFO] *  KPI: Mortgage    = 381.000
+[2018-04-11T12:24:40Z, INFO] *  KPI: Pension     = 147.000
