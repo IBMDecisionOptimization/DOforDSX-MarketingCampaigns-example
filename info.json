@@ -1,6 +1,6 @@
 {
 	"provider": ["IBM"], 
-	"name":  "DO for DSX Marketing Campaign example" ,
+	"name":  "DO for DSX Marketing Campaigns optimization example" ,
 	"model": [ "CPLEX" ],
 	"development": [ "Python" ],
 	"category": [ {"DOforDSX":["DO for DSX"]} ],
