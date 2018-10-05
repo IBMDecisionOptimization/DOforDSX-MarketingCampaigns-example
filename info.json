@@ -3,7 +3,7 @@
 	"name":  "DO for DSX Marketing Campaigns optimization example" ,
 	"model": [ "CPLEX" ],
 	"development": [ "Python" ],
-	"category": [ {"DOforDSX":["DO for DSX"]} ],
+	"category": [ {"DOforWS":["DO for WS"]} ],
 	"industry": [ "Banking" ],
 	"abstract": "According to the expected revenue per customer and campaign, optimize selected campaign/customer."
 }
